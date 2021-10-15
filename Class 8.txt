@@ -1,0 +1,19 @@
+CREATING A FLUTTER PROJECT
+
+1. cd desktop
+2. flutter create 'name'
+3. VS Terminal "flutter run"
+
+
+
+//important library
+import 'package:flutter/material.dart'; 
+
+void main(){
+ runApp(MyApp());
+}
+
+MaterialApp (home:)
+Scaffold    (body:)
+Container   (child:)
+Row/Column  (children:)
